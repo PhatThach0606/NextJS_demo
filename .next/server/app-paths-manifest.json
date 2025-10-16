@@ -1,7 +1,11 @@
 {
   "/(pages)/about/page": "app/(pages)/about/page.js",
+  "/(pages)/contact/page": "app/(pages)/contact/page.js",
   "/(pages)/detail/[id]/page": "app/(pages)/detail/[id]/page.js",
   "/(pages)/news/page": "app/(pages)/news/page.js",
+  "/(pages)/product/page": "app/(pages)/product/page.js",
+  "/(pages)/search/page": "app/(pages)/search/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
   "/page": "app/page.js"
 }

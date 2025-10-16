@@ -1,0 +1,11 @@
+{
+  "/(pages)/about/page": "/about",
+  "/(pages)/contact/page": "/contact",
+  "/(pages)/detail/[id]/page": "/detail/[id]",
+  "/(pages)/news/page": "/news",
+  "/(pages)/product/page": "/product",
+  "/(pages)/search/page": "/search",
+  "/_not-found/page": "/_not-found",
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/"
+}

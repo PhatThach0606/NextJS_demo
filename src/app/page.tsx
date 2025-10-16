@@ -1,7 +1,7 @@
 "use client";
 // import Image from "next/image";
 import { useState, useEffect } from "react";
-import { fetchProduct } from "./../server/actions/producAPI";
+
 import Shoe from "./(pages)/Shoe/shoe";
 export type Shoes = {
   id: number;

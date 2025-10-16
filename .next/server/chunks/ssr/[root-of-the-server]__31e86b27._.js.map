@@ -1,0 +1,1 @@
+{"version":3,"sources":["turbopack:///[project]/src/app/(pages)/contact/page.tsx"],"sourcesContent":["export default function Contact() {\n  return (\n    <div>\n      <h1>Contact Page</h1>\n    </div>\n  );\n}\n"],"names":[],"mappings":"kRAAe,SAAS,IACtB,MACE,CAAA,EAAA,EAAA,GAAA,EAAC,MAAA,UACC,CAAA,EAAA,EAAA,GAAA,EAAC,KAAA,UAAG,kBAGV"}

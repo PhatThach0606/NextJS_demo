@@ -1,0 +1,15 @@
+{
+  "pages": {
+    "/(pages)/product/page": [
+      "static/chunks/ff1a16fafef87110.js",
+      "static/chunks/7dd66bdf8a7e5707.js",
+      "static/chunks/10f9f8a611ed09c7.css",
+      "static/chunks/396c86f723a777b0.js",
+      "static/chunks/3eba6931cad880e3.js",
+      "static/chunks/47f477e3d2ef265b.js",
+      "static/chunks/150316a471952cee.js",
+      "static/chunks/8082ab48faca5ea1.js",
+      "static/chunks/turbopack-e0003e8d3992625e.js"
+    ]
+  }
+}

@@ -7,7 +7,7 @@ export default async function Search({ searchParams }: any) {
 
   const renderUI = () => {
     return data.map((product: any) => {
-      return <Product product={product} />;
+      return <Product key={product.id} product={product} />;
     });
   };
 
