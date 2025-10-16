@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 15, "column": 0}, "map": {"version":3,"sources":["file:///D:/Cybersoft/Front_end/NextJs/BaiTap/NextJS/src/app/%28pages%29/detail/%5Bid%5D/page.tsx"],"sourcesContent":["import { fetchProductById } from \"./../../../../server/actions/producAPI\";\r\nexport default async function Detail({ params }: any) {\r\n  const { id } = params;\r\n  console.log(id);\r\n  return (\r\n    <div>\r\n      <h1>Detail</h1>\r\n    </div>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;;AACe,eAAe,OAAO,EAAE,MAAM,EAAO;IAClD,MAAM,EAAE,EAAE,EAAE,GAAG;IACf,QAAQ,GAAG,CAAC;IACZ,qBACE,8OAAC;kBACC,cAAA,8OAAC;sBAAG;;;;;;;;;;;AAGV","debugId":null}}]
+}

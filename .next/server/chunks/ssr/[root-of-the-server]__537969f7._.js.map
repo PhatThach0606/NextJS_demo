@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 15, "column": 0}, "map": {"version":3,"sources":["file:///D:/Cybersoft/Front_end/NextJs/BaiTap/NextJS/src/app/%28pages%29/search/page.tsx"],"sourcesContent":["import { fetchProductKeyword } from \"./../../../server/actions/producAPI\";\r\nexport default function Search({ searchParams }: any) {\r\n  const { keyword } = searchParams;\r\n  console.log(keyword);\r\n  return (\r\n    <div>\r\n      <h1>Search</h1>\r\n    </div>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;;AACe,SAAS,OAAO,EAAE,YAAY,EAAO;IAClD,MAAM,EAAE,OAAO,EAAE,GAAG;IACpB,QAAQ,GAAG,CAAC;IACZ,qBACE,8OAAC;kBACC,cAAA,8OAAC;sBAAG;;;;;;;;;;;AAGV","debugId":null}}]
+}
